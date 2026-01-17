@@ -1,3 +1,10 @@
+md
+## Data
+- `data/document_completeness_by_applications.csv`
+  -  Source dataset used in Tableau
+  -  Tracks required vs uploaded documents by portfolio company
+  -  Used to calculate document completeness and risk status
+
 # Block_Equity_Risk_Dashboard
 Tableau dashboard analyzing document completeness and risk status for private equity operations.
 ## Key Business Questions
